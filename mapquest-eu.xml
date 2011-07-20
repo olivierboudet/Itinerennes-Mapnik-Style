@@ -60,6 +60,6 @@ THE SOFTWARE.
 <!--TEXT layers-->
 &layer-text;
 &layer-streetnames;
-&layer-addressing;
+<!--&layer-addressing;-->
 
 </Map>
