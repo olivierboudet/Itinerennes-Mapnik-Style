@@ -31,6 +31,8 @@ http://tile.openstreetmap.org/world_boundaries-spherical.tgz
 http://tile.openstreetmap.org/processed_p.tar.bz2 
 http://tile.openstreetmap.org/shoreline_300.tar.bz2  
 
-
+Changes in this stylesheet compared to the original MapQuest style :
+* Added zoom levels 19 and 20
+* Removed layer adressing
 
 
